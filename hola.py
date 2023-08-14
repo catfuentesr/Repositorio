@@ -6,3 +6,5 @@ Created on Sun Aug 13 20:05:40 2023
 """
 
 print("hello")
+
+x = 3
